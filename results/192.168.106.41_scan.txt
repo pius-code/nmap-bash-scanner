@@ -1,0 +1,12 @@
+
+Pinging 192.168.106.41 
+Starting Nmap 7.96 ( https://nmap.org ) at 2025-05-11 16:30 Greenwich Standard Time
+Nmap done: 0 IP addresses (0 hosts up) scanned in 0.61 seconds
+
+Checking 192.168.106.41 for Open ports
+Starting Nmap 7.96 ( https://nmap.org ) at 2025-05-11 16:30 Greenwich Standard Time
+Nmap done: 0 IP addresses (0 hosts up) scanned in 0.65 seconds
+
+Scanning for OS version 
+Starting Nmap 7.96 ( https://nmap.org ) at 2025-05-11 16:30 Greenwich Standard Time
+Nmap done: 0 IP addresses (0 hosts up) scanned in 1.03 seconds
